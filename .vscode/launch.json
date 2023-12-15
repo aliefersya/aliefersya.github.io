@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open about-us.html",
-            "file": "/Users/ers/aliefersya/about-us.html"
+            "name": "Open index.html",
+            "file": "/Users/ers/aliefersya/index.html"
         }
     ]
 }
